@@ -21,6 +21,9 @@ O workflow identifica os assuntos pendentes, realiza uma pesquisa utilizando a A
 
 ## 📌 Status
 
+<img width="1356" height="496" alt="image" src="https://github.com/user-attachments/assets/fab2e745-3780-4db8-9a74-3346b8486572" />
+
+
 🚧 Em evolução
 
 Novas funcionalidades serão adicionadas ao projeto conforme avanço nos estudos.
